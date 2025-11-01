@@ -1,5 +1,10 @@
 function Home() {
-    return <h1>Tecnologia vai mudar a minha vida. Vamos juntos nessa jornada?!</h1>
+  return (
+    <h1>Tecnologia vai mudar a minha vida. Vamos juntos nessa jornada?!</h1>
+  );
+}
+function teste() {
+  console.log("teste");
 }
 
 export default Home;
